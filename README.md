@@ -8,10 +8,10 @@ These files sat in the following directory:
     /home/benporter/ShinyApps
 
 Where:
-- benporter is the username and also part of the path for access the Shiny pages
+- benporter is the username and also part of the path for accessing the Shiny pages
 - ShinyApps is the required directory for Shiny application hosting and is not part of the web site path
 
-For example, the <em>wordcloud</em> app can be accessed via:  
+For example, the wordcloud app can be accessed via:  
 
     http://glimmer.rstudio.com/benporter/wordcloud/
 
