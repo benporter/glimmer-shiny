@@ -1,0 +1,9 @@
+Loading required package: bitops
+
+Listening on domain socket /tmp/shiny-session/2900143648f3056295dcba3097e48a15.sock
+ERROR: [on_request_read] connection reset by peer
+Error in cat(list(...), file, sep, fill, labels, append) : 
+  argument 1 (type 'list') cannot be handled by 'cat'
+Error in cat(list(...), file, sep, fill, labels, append) : 
+  argument 1 (type 'list') cannot be handled by 'cat'
+Terminated

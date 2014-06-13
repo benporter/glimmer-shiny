@@ -1,0 +1,3 @@
+Error in eval(expr, envir, enclos) : object 'server.R' not found
+Calls: runApp ... eval -> eval -> source -> withVisible -> eval -> eval
+Execution halted

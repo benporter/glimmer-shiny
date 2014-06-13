@@ -1,0 +1,3 @@
+Error in library(rjson) : there is no package called ‘rjson’
+Calls: runApp ... eval -> source -> withVisible -> eval -> eval -> library
+Execution halted
