@@ -1,7 +1,0 @@
-Error in source(serverR, local = new.env(parent = .GlobalEnv)) : 
-  54:66: unexpected '{'
-53:   #generate breakeven plot
-54:   output$breakevenplot <- renderPlot(funtion(cost_per_response()){
-                                                                    ^
-Calls: runApp ... eval.parent -> eval -> eval -> eval -> eval -> source
-Execution halted

@@ -1,7 +1,0 @@
-Error in source(serverR, local = new.env(parent = .GlobalEnv)) : 
-  100:0: unexpected end of input
-98:   
-99: })
-  ^
-Calls: runApp ... eval.parent -> eval -> eval -> eval -> eval -> source
-Execution halted
